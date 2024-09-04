@@ -1,7 +1,7 @@
 # hes-cconf-plugin-new-window-demo
 
 ### Install
-Install dependencies using command: `npm install link`
+Install dependencies using command: `npm install`
 
 ### Dev
 In order to simulate the final environment, a `sandbox.ts` file is created. This is necessary only in dev mode, to increase the developer experience. Use command: `npm run dev`
